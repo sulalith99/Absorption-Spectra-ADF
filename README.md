@@ -10,7 +10,7 @@
   
 * here is an example plot 📈 generated using, Absorption_spectra_intensity_vs_energy.ipynb,
   
-![au42 sch3 32-ex](https://github.com/user-attachments/assets/8d5fea0d-cd1a-4da9-9d22-6f33d6d38298)
+![au42 sch2ph 32(cs)-stddft-stda-bp86-dzp](https://github.com/user-attachments/assets/eef85e79-6247-48ed-bffa-b4cd4950931c)
 
 * an example plot generated 📈 using, Absorption_spectra_intensity_vs_wavelength.ipynb,
   
