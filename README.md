@@ -16,4 +16,7 @@
   
 ![au18(cs)-diadm-b3lyp-dz-toluene-stddft](https://github.com/user-attachments/assets/1c672719-5de3-47d6-a2fc-966c87fc1edc)
 
+* looking for some examples 🔍? what is the input file looks like 🧐?
+  no worries, check the _**Examples**_ folder, where you can find two example _.csv_ files that can be used in these individual scripts 😆!
+
 
